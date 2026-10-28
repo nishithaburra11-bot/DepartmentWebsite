@@ -7,3 +7,7 @@ This project contains the Computer Science department website.
 - Faculty
 - Courses
 - About Department
+
+## Activities
+- Research
+- Internships
